@@ -1,5 +1,11 @@
 package entidade;
 
+/**
+ * Classe responsável por auxiliar no controle de qual vendedor vendeu menos.
+ * 
+ * @author Anderson Matte
+ * 
+ */
 public class EntidadeAuxiliarVendedor {
 	
 	private String nome;
